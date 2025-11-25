@@ -147,15 +147,15 @@ You may actually cause more problems than you solve if there are problems with y
 :end
 
 :tips_tweaks_max_instances_plug:
-> This is maximum number of inotify instances that a user can create.
+> Este es el número máximo de instancias de inotify que un usuario puede crear.
 >
-> The default is 128.
+> El valor predeterminado es 128.
 :end
 
 :tips_tweaks_max_files_plug:
-> This value is used by samba to set the maximum number of open files allowed in SMB shares.
+> Samba utiliza este valor para establecer la cantidad máxima de archivos abiertos permitidos en los recursos compartidos SMB.
 >
-> The default is 40960 and the allowed range is 40960 to 65535.
+> El valor predeterminado es 40960 y el rango permitido es desde 40960 a 65535.
 :end
 
 :tips_tweak_turbo_plug:
@@ -163,11 +163,11 @@ You may actually cause more problems than you solve if there are problems with y
 :end
 
 :tips_tweaks_turbo_state_off_plug:
-> Enter the time you want to set Intel Turbo/AMD Performance Boost Off in 24 hour format hh:mm.
+> Ingrese la hora en la que desea desactivar Intel Turbo/AMD Performance Boost en formato de 24 horas (hh:mm).
 :end
 
 :tips_tweaks_turbo_state_on_plug:
-> Enter the time you want to set Intel Turbo/AMD Performance Boost On in 24 hour format hh:mm.
+> Ingrese la hora en la que desea activar Intel Turbo/AMD Performance Boost en formato de 24 horas (hh:mm).
 :end
 
 :tips_tweaks_cpu_governor_plug:
