@@ -42,6 +42,7 @@ Attention - operation continues in background=Atención: la operación continúa
 Attributes=Atributos
 Auto=Auto
 Automatic=Automático
+Avatar=Avatar
 Average speed=Velocidad media
 Azure=Azure
 B=B
